@@ -1,7 +1,7 @@
 [submodule "snippets"]
         path = snippets
-        url = https://github.com/AndreaCrotti/yasnippet-snippets.git
-	branch = master
+        url = https://github.com/enzochiau/yasnippet-snippets.git
+    	branch = ec_dev
 [submodule "yasmate"]
         path = yasmate
         url = https://github.com/capitaomorte/yasmate.git
